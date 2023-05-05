@@ -1,2 +1,3 @@
 # Hotelbookingsystem
-java GUI based with my sql
+java GUI based with my sql database
+
